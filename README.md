@@ -4,6 +4,10 @@ Hi 👋 My name is Konadu AKwasi Akuoko 👨🏾‍💻
 Full stack software engineer
 -----------------------------------------------------
 
+Hello! My name is Konadu, and I like making things that are interactive and exist online including websites.When I decided to attempt and make my own game with Unity3d in 2019, that is when my interest in programming first began. It turns out that experience taught me a lot about programming. I left up game programming when I began my undergraduate studies in computer technology because I fell in love with web development. I can now create extremely interactive websites with frontend and backend tools like NodeJS, ReactJS, ExpressJS, and MongoDB.
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
