@@ -1,4 +1,4 @@
-Hi 👋 My name is Konadu AKwasi Akuoko 👨🏾‍💻
+<h1 align="center">Hi, I'm Konadu Akwasi Akuoko!</h1>
 ==========================================
 
 Full stack software engineer
