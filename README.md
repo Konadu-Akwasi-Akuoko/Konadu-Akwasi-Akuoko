@@ -32,4 +32,4 @@ Hello! My name is Konadu, and I like making things that are interactive and exis
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-![Konadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konadu-Akwasi-Akuoko&count_private=true)
+![Konadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konadu-Akwasi-Akuoko&count_private=true&show_icons=true)
