@@ -7,7 +7,7 @@ Hello! My name is Konadu, and I like making things that are interactive and exis
 
 
 * 🌍  I'm based in Kumasi, Ghana
-* 🖥️  My resume[Download](https://drive.google.com/file/d/1aeFZkRx1IZGdTM_akQEdvaODeGLhXrj3/view?usp=sharing)
+* 🖥️  My resume, download it from [here](https://drive.google.com/file/d/1aeFZkRx1IZGdTM_akQEdvaODeGLhXrj3/view?usp=sharing)
 * ✉️  You can contact me at [https://twitter.com/codeflix365](mailto:https://twitter.com/codeflix365)
 * 🚀  I'm currently working on [CasvaLabs - A Website for Mentorship.](http://github.com/josh-boat365/casvalabs)
 * 🧠  I'm learning Frontend Developement -> Backend Development.
