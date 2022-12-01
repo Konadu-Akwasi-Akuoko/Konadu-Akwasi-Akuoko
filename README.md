@@ -7,7 +7,7 @@ At the Akenten Appiah-Menka University of Skills Training and Entrepreneurial De
 
 Because I concentrated mostly on designing full stack web applications while in school, I am incredibly adaptable in this area. As a result, I know how to construct websites utilizing the front-end frameworks ReactJS or NextJS, the back-end frameworks NodeJS and ExpressJS, the database technologies MondoDB, MySQL, or MariaDB, and the hosting technologies AWS, Heroku, Firebase, and Netlify. I was accepted as a teaching assistant at the Open Labs NIIT, Kumasi campus due to my expertise in programming languages and software development in general. I assisted the instructors at Open Labs NIIT in teaching ReactJS, MySQL, and Excel, among other subjects. Due to my love of education, I always helped the students when it was time for lunch or when class wasn't in session to ensure that they understood what the lecturer had taught them.
 
-Additionally, I offered to lead the AAMUSTED Google Developer Student Club at my school, where I mostly aid in this effort by providing engaging seminars and activities that broaden students' knowledge of developer tools and platforms. In general, I am dedicated to supporting, expanding, and instructing the developer community at his school.
+Additionally, I offered to lead the AAMUSTED Google Developer Student Club at my school, where I mostly aid in this effort by providing engaging seminars and activities that broaden students' knowledge of developer tools and platforms. In general, I am dedicated to supporting, expanding, and instructing the developer community at my school.
 
 * 🌍  I'm based in Kumasi, Ghana
 * 🖥️  My resume, download it from [here](https://drive.google.com/file/d/1aeFZkRx1IZGdTM_akQEdvaODeGLhXrj3/view?usp=sharing)
