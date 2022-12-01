@@ -3,8 +3,11 @@
 Full stack software engineer
 -----------------------------------------------------
 
-Hello! My name is Konadu, and I like making things that are interactive and exist online including websites.When I decided to attempt and make my own game with Unity3d in 2019, that is when my interest in programming first began. It turns out that experience taught me a lot about programming. I left up game programming when I began my undergraduate studies in computer technology because I fell in love with web development. I can now create extremely interactive websites with frontend and backend tools like NodeJS, ReactJS, ExpressJS, and MongoDB.
+At the Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development, I am a student and I study Information Technology with Education. Algebra, calculus, probability and statistics, database design and implementations, an introduction to programming with C++, Java, and web technologies, operating systems, digital electronics, system architecture, and project management are just a few of the subjects covered at my school.
 
+Because I concentrated mostly on designing full stack web applications while in school, I am incredibly adaptable in this area. As a result, I know how to construct websites utilizing the front-end frameworks ReactJS or NextJS, the back-end frameworks NodeJS and ExpressJS, the database technologies MondoDB, MySQL, or MariaDB, and the hosting technologies AWS, Heroku, Firebase, and Netlify. I was accepted as a teaching assistant at the Open Labs NIIT, Kumasi campus due to my expertise in programming languages and software development in general. I assisted the instructors at Open Labs NIIT in teaching ReactJS, MySQL, and Excel, among other subjects. Due to my love of education, I always helped the students when it was time for lunch or when class wasn't in session to ensure that they understood what the lecturer had taught them.
+
+Additionally, I offered to lead the AAMUSTED Google Developer Student Club at my school, where I mostly aid in this effort by providing engaging seminars and activities that broaden students' knowledge of developer tools and platforms. In general, I am dedicated to supporting, expanding, and instructing the developer community at his school.
 
 * 🌍  I'm based in Kumasi, Ghana
 * 🖥️  My resume, download it from [here](https://drive.google.com/file/d/1aeFZkRx1IZGdTM_akQEdvaODeGLhXrj3/view?usp=sharing)
