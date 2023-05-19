@@ -37,4 +37,4 @@ Additionally, I offered to lead the AAMUSTED Google Developer Student Club at my
 
 <br>
 
-![Konadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konadu-Akwasi-Akuoko&count_private=true&show_icons=true)
+[![Konadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konadu-Akwasi-Akuoko)](https://github.com/anuraghazra/github-readme-stats)
