@@ -13,7 +13,7 @@ Additionally, I offered to lead the AAMUSTED Google Developer Student Club at my
 * 🖥️  My resume, download it from [here](https://drive.google.com/file/d/1aeFZkRx1IZGdTM_akQEdvaODeGLhXrj3/view?usp=sharing)
 * ✉️  You can contact me on [Twitter](https://twitter.com/akuoko_konadu)
 * 🚀  I'm currently working on [my personal website.](https://konadu.netlify.app)
-* 🧠  I'm currently reading [Refactoring UI](https://www.refactoringui.com/)
+* 🧠  I'm currently reading [A common Sense Guide To Data Structures And Algorithms]([https://www.refactoringui.com/](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222)
 * 🤝  I'm open to collaborating and working on Web development projects.
 * ⚡   Fun fact: I like reading fantasy and adventure books, if I'm not coding I'll probably be reading 😇
 
