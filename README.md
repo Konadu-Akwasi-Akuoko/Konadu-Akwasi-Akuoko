@@ -8,7 +8,7 @@ Full stack software engineer
 * 🌍  I'm based in Takoradi, Ghana
 * 🖥️  My resume, download it from [here](https://drive.google.com/file/d/1aeFZkRx1IZGdTM_akQEdvaODeGLhXrj3/view?usp=sharing)
 * ✉️  You can contact me on [Twitter](https://twitter.com/akuoko_konadu)
-* 🧠  I'm currently reading [A common Sense Guide To Data Structures And Algorithms](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222)
+* 🧠  I'm currently reading [A common Sense Guide To Data Structures And Algorithms](https://github.com/Konadu-Akwasi-Akuoko/A-Common-Sense-Guide-to-Data-Structures-And-Algorithms--Book-Summary)
 * 🤝  I'm open to collaborating and working on Web development projects.
 * ⚡   Fun fact: I like reading fantasy and adventure books, if I'm not coding I'll probably be reading 😇
 
