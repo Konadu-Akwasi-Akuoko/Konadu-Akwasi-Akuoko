@@ -17,6 +17,4 @@ Nerdy Full Stack Software Engineer
 
 <br>
 
-[![Konadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konadu-Akwasi-Akuoko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Akwasi's GitHub stats](https://github-readme-stats-git-main-konaduakwasiakuokos-projects.vercel.app/api?username=Konadu-Akwasi-Akuoko)](https://github.com/anuraghazra/github-readme-stats)
+[![Konadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konadu-Akwasi-Akuoko)](https://github.com/Konadu-Akwasi-Akuoko/neovim)
