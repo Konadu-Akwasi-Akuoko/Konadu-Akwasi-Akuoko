@@ -10,11 +10,3 @@ Nerdy Full Stack Software Engineer
 * ✉️  [Twitter](https://twitter.com/akuoko_konadu)
 * 🤝  I'm open to collaborating and working on open source projects.
 * ⚡   Fun fact: I like reading fantasy and adventure books, if I'm not coding I'll probably be reading 😇
-
-<br>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Konadu-Akwasi-Akuoko)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-[![Konadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konadu-Akwasi-Akuoko)](https://github.com/Konadu-Akwasi-Akuoko/neovim)
