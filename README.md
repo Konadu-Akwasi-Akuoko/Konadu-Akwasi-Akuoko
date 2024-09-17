@@ -5,7 +5,7 @@ Nerdy Full Stack Software Engineer
 
 ## Check out [my website (konadu.dev)](https://konadu.dev) where I talk about a bunch of software engineering concepts
 
-* 🌍  I'm based in Takoradi, Ghana
+* 🌍  I'm based in Ghana (Kumasi & Accra)
 * 🖥️  My resume, download it from [here](https://drive.google.com/file/d/1aeFZkRx1IZGdTM_akQEdvaODeGLhXrj3/view?usp=sharing)
 * ✉️  [Twitter](https://twitter.com/akuoko_konadu)
 * 🤝  I'm open to collaborating and working on open source projects.
