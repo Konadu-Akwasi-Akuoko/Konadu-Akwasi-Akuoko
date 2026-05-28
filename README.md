@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Konadu Akwasi Akuoko!</h1>
 
 <h2 align="center">Open Sourcerer 🧙</h2>
------------------------------------------------------
 
 ## Check out [my website (konadu.dev)](https://konadu.dev) where I talk about a bunch of software engineering concepts
 
